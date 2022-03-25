@@ -1,5 +1,7 @@
 # AI_DRONE
 
+https://youtu.be/11sDKYcGciA
+
 This project assesses the feasibility of a model by using unmanned aerial vehicles (UAVs) for aerial surveillances. The purpose of aerial surveillance is using sensors to cover the task
 area to obtain the information regarding the area. Drones or Unmanned Aerial Vehicles are helpful in handling the Covid-19 pandemic for ensuring public safety. The first part of the proposed model uses AI to collect data through
 drones - analyse and provide necessary steps for detecting if an individual is wearing a mask or not. The second part is social distancing analysis through a live video stream; the video is
